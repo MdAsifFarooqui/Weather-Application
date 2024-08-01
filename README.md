@@ -1,5 +1,5 @@
 **Weather Application:**
-A simple weather application built using JavaScript, HTML, and CSS. This application fetches weather data from a weather API and displays the current weather information for a specified location.
+A simple weather application built using JavaScript, HTML, and CSS. This application fetches weather data from a open weather API and displays the current weather information for a specified location.
 
 **Features:**
 Fetches real-time weather data using a weather API.
